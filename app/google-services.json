@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368143448117",
+    "project_id": "fb-demo-1deaa",
+    "storage_bucket": "fb-demo-1deaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368143448117:android:16f1d85c24f91092f4d97c",
+        "android_client_info": {
+          "package_name": "fcu.mp.rmyregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368143448117-6rqs6tnkm6han20kt1vbjj3fg1dqkgf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAod_b1XClgWi1WAz0mGfVsN7bZYpAQzkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368143448117-6rqs6tnkm6han20kt1vbjj3fg1dqkgf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
